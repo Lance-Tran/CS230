@@ -14,7 +14,7 @@ I believe that I was really able to dig into the details of what made certain re
 
 I found out that making a design document helped me keep more focused. I know what I'm doing, and what I'm doing for. It prevents things like choice paralysis or going down a circular rabbit hole, which I know I am prone to. A circular rabbit hole would be like, deciding you like, A, then you realize B is cheaper, but then C is also cheaper than that. However, when thinking about ease of use, all of a sudden, I'm looking at A again. With a design document, I know what my priorities are.
 
-## If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+### If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
 Fortunately I was able to revise some of my sections already. I would revise my security section even more, there's a lot more to be said about it than I did. 
 
